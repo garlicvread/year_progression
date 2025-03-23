@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import tkinter as tk
 from datetime import datetime, date
 from tkinter import font as tkfont
